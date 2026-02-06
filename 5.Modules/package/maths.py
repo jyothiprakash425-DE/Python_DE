@@ -1,5 +1,8 @@
-def addition_new(a,b):
+def addition(a,b):
     return a+b
 
-def substraction_new(a,b):
+def substraction(a,b):
     return a-b
+
+def multiply(a,b):
+    return a*b
