@@ -1,5 +1,0 @@
-Hello Jyothi Prakash
-This is a new line.Appending a new line to the exisiting document.Appending a new line to the exisiting document.
-Appending a new line to the exisiting document.First line
-Second line
-Third line
